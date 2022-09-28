@@ -3,6 +3,7 @@ Build a Vue.js 3 CRUD example to consume REST APIs, display and modify data usin
 - Each Tutorial has id, title, description, published status.
 - We can create, retrieve, update, delete Tutorials.
 - There is a Search bar for finding Tutorials by title.
+- ADDED
 
 ![vue-3-crud-example-axios-tutorial](vue-3-crud-example-axios-tutorial.png)
 
