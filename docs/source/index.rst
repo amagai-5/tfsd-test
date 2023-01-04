@@ -1,12 +1,13 @@
-Welcome to Lumache's documentation!
+Welcome to TFSD-test!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**TFSD-test**  
+Vue 3 example with Axios & Vue Router: Build CRUD App
+Build a Vue.js 3 CRUD example to consume REST APIs, display and modify data using Axios and Vue Router.
 
-Lumache has its documentation hosted on Read the Docs.
+- Each Tutorial has id, title, description, published status.
+- We can create, retrieve, update, delete Tutorials.
+- There is a Search bar for finding Tutorials by title.
 
 
 Check out the :doc:`usage` section for further information, including
@@ -23,3 +24,4 @@ Contents
 
    usage
    api
+   instructions
