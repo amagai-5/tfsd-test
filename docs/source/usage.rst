@@ -6,14 +6,44 @@ Usage
 Installation
 ------------
 
-To use Lumache, first install it using pip:
+Project setup
 
 .. code-block:: console
 
-   (.venv) $ pip install lumache
+   npm install 
 
-Creating recipes
+Compiles and hot-reloads for development
 ----------------
+
+.. code-block:: console
+   
+   npm run serve
+
+Compiles and minifies for production
+----------------
+
+.. code-block:: console
+   
+   npm run build
+
+
+Run your tests
+----------------
+
+.. code-block:: console
+   
+   npm run test
+
+Lints and fixes files
+----------------
+
+.. code-block:: console
+   
+   npm run lint
+
+
+
+
 
 To retrieve a list of random ingredients,
 you can use the ``lumache.get_random_ingredients()`` function:
